@@ -1,0 +1,31 @@
+html, body {
+  margin: 0 auto;
+  padding: 0;
+  margin-top: 0;
+  height: 100%;
+  text-align: center;
+}
+
+body {
+  background-color: #091479;
+}
+
+#game {
+  height: 560px;
+  width: 560px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.cells {
+  height: 165px;
+  width: 165px;
+  position: relative;
+  display: inline-block;
+  border-radius: 10px;
+  margin: 5px 5px 5px 5px;
+  background-color: #1425CB;
+  box-shadow: 10px 10px #040B4D;
+}
+
