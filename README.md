@@ -11,4 +11,4 @@ nostalgic.
 ### `/new`
 
 A newer version I made in an hour a year later. 
-[Play!](https://earnagram.github.io/xanthic_ochre/)
+[Play!](https://ezRAez.github.io/xanthic_ochre/)
