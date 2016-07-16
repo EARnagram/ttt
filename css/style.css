@@ -1,8 +1,7 @@
 html, body {
-  margin: 0 auto;
+  margin: auto auto;
   padding: 0;
-  margin-top: 0;
-  height: 100%;
+  margin: 0;
   text-align: center;
 }
 
@@ -13,7 +12,7 @@ body { background-color: #091479; }
   width: 560px;
   margin: 0 auto;
   text-align: center;
-  margin-top: 80px;
+  margin-top: 10.5vh;
 }
 
 .cell {
@@ -22,7 +21,7 @@ body { background-color: #091479; }
   position: relative;
   display: inline-block;
   border-radius: 10px;
-  margin: 5px 5px 5px 5px;
+  margin: 5px 5px;
   background-color: #1425CB;
   box-shadow: 10px 10px #040B4D;
 }
